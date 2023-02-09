@@ -1,0 +1,389 @@
+{
+  "textures": [{
+    "image": "textures.png",
+    "frames": [
+      {
+        "filename": "Niz",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 926,
+          "y": 812,
+          "w": 1020,
+          "h": 62
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 62
+        },
+        "sourceSize": {
+          "w": 1020,
+          "h": 62
+        }
+      },
+      {
+        "filename": "apple",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1204,
+          "y": 949,
+          "w": 133,
+          "h": 154
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 133,
+          "h": 154
+        },
+        "sourceSize": {
+          "w": 133,
+          "h": 155
+        }
+      },
+      {
+        "filename": "banana",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 926,
+          "y": 662,
+          "w": 141,
+          "h": 148
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 141,
+          "h": 148
+        },
+        "sourceSize": {
+          "w": 141,
+          "h": 148
+        }
+      },
+      {
+        "filename": "box",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1204,
+          "y": 882,
+          "w": 104,
+          "h": 65
+        },
+        "spriteSourceSize": {
+          "x": 11,
+          "y": 16,
+          "w": 104,
+          "h": 65
+        },
+        "sourceSize": {
+          "w": 126,
+          "h": 95
+        }
+      },
+      {
+        "filename": "cherry",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1056,
+          "y": 536,
+          "w": 113,
+          "h": 124
+        },
+        "spriteSourceSize": {
+          "x": 4,
+          "y": 15,
+          "w": 113,
+          "h": 124
+        },
+        "sourceSize": {
+          "w": 125,
+          "h": 151
+        }
+      },
+      {
+        "filename": "fruits",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1712,
+          "y": 1379,
+          "w": 144,
+          "h": 97
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 144,
+          "h": 97
+        },
+        "sourceSize": {
+          "w": 144,
+          "h": 97
+        }
+      },
+      {
+        "filename": "garden",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 876,
+          "w": 1200,
+          "h": 600
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 1200,
+          "h": 600
+        },
+        "sourceSize": {
+          "w": 1200,
+          "h": 600
+        }
+      },
+      {
+        "filename": "grape",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1576,
+          "y": 1205,
+          "w": 113,
+          "h": 126
+        },
+        "spriteSourceSize": {
+          "x": 9,
+          "y": 22,
+          "w": 113,
+          "h": 126
+        },
+        "sourceSize": {
+          "w": 134,
+          "h": 158
+        }
+      },
+      {
+        "filename": "heart",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 922,
+          "h": 872
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 922,
+          "h": 872
+        },
+        "sourceSize": {
+          "w": 922,
+          "h": 872
+        }
+      },
+      {
+        "filename": "lemon",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1193,
+          "y": 685,
+          "w": 112,
+          "h": 125
+        },
+        "spriteSourceSize": {
+          "x": 11,
+          "y": 14,
+          "w": 112,
+          "h": 125
+        },
+        "sourceSize": {
+          "w": 141,
+          "h": 147
+        }
+      },
+      {
+        "filename": "orange",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 926,
+          "y": 517,
+          "w": 128,
+          "h": 143
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 128,
+          "h": 143
+        },
+        "sourceSize": {
+          "w": 128,
+          "h": 143
+        }
+      },
+      {
+        "filename": "peach",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1858,
+          "y": 1350,
+          "w": 88,
+          "h": 126
+        },
+        "spriteSourceSize": {
+          "x": 18,
+          "y": 7,
+          "w": 88,
+          "h": 126
+        },
+        "sourceSize": {
+          "w": 121,
+          "h": 141
+        }
+      },
+      {
+        "filename": "pear",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1339,
+          "y": 956,
+          "w": 111,
+          "h": 147
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 111,
+          "h": 147
+        },
+        "sourceSize": {
+          "w": 111,
+          "h": 147
+        }
+      },
+      {
+        "filename": "pineapple",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 926,
+          "y": 389,
+          "w": 113,
+          "h": 126
+        },
+        "spriteSourceSize": {
+          "x": 14,
+          "y": 11,
+          "w": 113,
+          "h": 126
+        },
+        "sourceSize": {
+          "w": 136,
+          "h": 151
+        }
+      },
+      {
+        "filename": "plum",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1452,
+          "y": 978,
+          "w": 87,
+          "h": 125
+        },
+        "spriteSourceSize": {
+          "x": 15,
+          "y": 11,
+          "w": 87,
+          "h": 125
+        },
+        "sourceSize": {
+          "w": 118,
+          "h": 147
+        }
+      },
+      {
+        "filename": "strawberry",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1576,
+          "y": 1333,
+          "w": 134,
+          "h": 143
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 3,
+          "w": 134,
+          "h": 143
+        },
+        "sourceSize": {
+          "w": 136,
+          "h": 146
+        }
+      },
+      {
+        "filename": "tit",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1204,
+          "y": 1105,
+          "w": 370,
+          "h": 371
+        },
+        "spriteSourceSize": {
+          "x": 65,
+          "y": 97,
+          "w": 370,
+          "h": 371
+        },
+        "sourceSize": {
+          "w": 500,
+          "h": 500
+        }
+      },
+      {
+        "filename": "watermelon",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 1069,
+          "y": 662,
+          "w": 122,
+          "h": 148
+        },
+        "spriteSourceSize": {
+          "x": 14,
+          "y": 3,
+          "w": 122,
+          "h": 148
+        },
+        "sourceSize": {
+          "w": 151,
+          "h": 153
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}
